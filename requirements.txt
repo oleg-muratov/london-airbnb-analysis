@@ -1,0 +1,9 @@
+# Python 3.12. Exact versions of the tested environment.
+pandas==3.0.3
+numpy==2.4.6
+matplotlib==3.10.9
+pyarrow==24.0.0
+duckdb==1.5.3
+pyfixest==0.60.0
+scikit-learn==1.8.0
+jupyter==1.1.1

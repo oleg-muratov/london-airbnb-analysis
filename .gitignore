@@ -1,0 +1,29 @@
+# Data files (too large for git — download from Kaggle)
+data/*.csv
+data/*.gz
+
+# Derived caches (rebuilt from the CSVs by src/calendar_panel.py)
+data/interim/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
